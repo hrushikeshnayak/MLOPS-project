@@ -1,0 +1,3 @@
+-- anaconda 
+-- VS code 
+-- GIT
