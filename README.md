@@ -5,7 +5,7 @@
 - MLOPs Tool: https://www.evidentlyai.com/
 - MongoDB: https://account.mongodb.com/account/login
 - Data link: https://www.kaggle.com/datasets/moro23/easyvisa-dataset
-
+- Notebook Link https://hrushikeshnayak.notion.site/ML-OPS-18d80dcf715c808eb6d4eefcc2d53949?pvs=4
 ## Git commands
 
 
