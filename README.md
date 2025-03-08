@@ -45,6 +45,8 @@ pip install -r requirements.txt
 ' ' '
 
 <!-- workflow  -->
-1. constant
-2. entity
-3. 
+- 1. constant
+- 2. entity
+- 3. components 
+- 4. pipeline 
+- 5. main file 
