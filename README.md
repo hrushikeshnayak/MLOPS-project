@@ -133,3 +133,6 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
    - AWS_SECRET_ACCESS_KEY
    - AWS_DEFAULT_REGION
    - ECR_REPO
+
+
+amazon_uri = '640168454332.dkr.ecr.eu-north-1.amazonaws.com/visa'
